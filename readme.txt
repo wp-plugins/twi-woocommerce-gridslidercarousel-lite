@@ -2,8 +2,8 @@
 Contributors: khairulalamruet
 Donate link: http://codecanyon.net/item/woocommerce-product-slidercarouselgrid/7928428?ref=twibd
 Tags: woocommerce slider, woocommerce carousel, woocommerce grids, slider, carousel, grid ,woocoomerce, vafpress
-Requires at least: 4.0
-Tested up to: 4.2.2
+Requires at least: 3.0
+Tested up to: 4.2.3
 Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/agpl-3.0.html
@@ -66,9 +66,9 @@ Always upgrade to the newest release to profit from bugfixes and new features.
 
 == Screenshots ==
 
-1. Usage Example 1
-2. Usage Example 2
-3. Shortcode Generator
+1. Pro Version Shortcode Builder
+2. Lite Version Shortcode Builder
+3. Shortcode Button
 
 == Changelog ==
 
