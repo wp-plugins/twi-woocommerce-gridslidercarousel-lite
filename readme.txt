@@ -4,7 +4,7 @@ Donate link: http://codecanyon.net/item/woocommerce-product-slidercarouselgrid/7
 Tags: woocommerce slider, woocommerce carousel, woocommerce grids, slider, carousel, grid ,woocoomerce, vafpress
 Requires at least: 3.0
 Tested up to: 4.2.3
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/agpl-3.0.html
 
@@ -72,7 +72,7 @@ Always upgrade to the newest release to profit from bugfixes and new features.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Intial public release
 
 
