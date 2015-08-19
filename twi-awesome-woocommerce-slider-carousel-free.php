@@ -3,7 +3,7 @@
     Plugin Name: TWI Woocommerce Grid/Slider/Carousel Lite
 	Plugin URI: http://codecanyon.net/item/woocommerce-product-slidercarouselgrid/7928428?ref=twibd
 	Description: Simple, easy and super flexible Awesome Woocommerce Grid/Slider/Carousel plugin for wordpress by TWI.
-	Version: 1.0
+	Version: 1.0.1
 	Author: Khairul Alam
 	Author URI: http://codecanyon.net/user/twibd
 */
